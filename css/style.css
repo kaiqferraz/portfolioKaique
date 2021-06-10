@@ -1,0 +1,142 @@
+/* navbar */
+.navbar a {
+  color: dodgerblue;
+  font-style: normal;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar a:hover {
+  color: black;
+  font-style: normal;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar .dropdown button {
+  color: white;
+  background-color: dodgerblue;
+}
+
+.navbar .dropdown button:hover {
+  color: white;
+  background-color: black;
+}
+
+/* navbar */
+/* ----------------------------------------------------------------------------------- */
+
+/* home */
+
+.img {
+  font-size: small;
+}
+
+.home-text h1 {
+  color: dodgerblue;
+}
+
+.social-links a {
+  font-size: 25px;
+  color: black;
+}
+
+.social-links .contate {
+  font-size: 17px;
+  color: dodgerblue;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.social-links h4 {
+  font-size: 25px;
+  color: black;
+}
+
+.social-links .whatsapp:hover {
+  font-size: 40px;
+  color: green;
+}
+
+.social-links .github:hover {
+  font-size: 40px;
+  color: cornflowerblue;
+}
+
+.social-links .gmail:hover {
+  font-size: 40px;
+  color: brown;
+}
+
+.social-links .linkedin:hover {
+  font-size: 40px;
+  color: cornflowerblue;
+}
+
+/* home */
+
+/* ----------------------------------------------------------------------------------- */
+
+/* about */
+
+/* about */
+
+.about-text-cv {
+  -webkit-box-shadow: 6px 5px 51px -25px rgba(87, 84, 87, 1);
+  -moz-box-shadow: 6px 5px 51px -25px rgba(87, 84, 87, 1);
+  box-shadow: 6px 5px 51px -25px rgba(87, 84, 87, 1);
+}
+
+.about .btn {
+  color: aquamarine;
+  background-color: dodgerblue;
+  color: white;
+}
+
+.about .btn:hover {
+  color: aquamarine;
+  background-color: dodgerblue;
+  color: white;
+  font-size: 18px;
+}
+
+/* about */
+
+/* ----------------------------------------------------------------------------------- */
+
+/* experience */
+.experience h3 {
+  color: dodgerblue;
+  font-size: medium;
+}
+
+.experience h4 {
+  color: cornflowerblue;
+  font-size: small;
+}
+
+.experience p {
+  color: black;
+  font-size: smaller;
+}
+/* experience */
+
+/* ----------------------------------------------------------------------------------- */
+
+/* footer */
+.footer {
+  background-color: black;
+  color: aliceblue;
+}
+
+.footer h5 {
+  font-weight: 100;
+  font-size: medium;
+}
+/* footer */
+
+/* ----------------------------------------------------------------------------------- */
