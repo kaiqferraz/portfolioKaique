@@ -112,6 +112,10 @@
   color: dodgerblue;
 }
 
+.about h3:hover {
+  color: aquamarine;
+}
+
 .about p {
   color: aliceblue;
 }
