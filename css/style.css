@@ -1,4 +1,5 @@
 /* navbar */
+
 .navbar a {
   color: dodgerblue;
   font-style: normal;
@@ -32,6 +33,10 @@
 
 /* home */
 
+.home {
+  background-color: black;
+}
+
 .img {
   font-size: small;
 }
@@ -40,9 +45,17 @@
   color: dodgerblue;
 }
 
+.home h2 {
+  color: aliceblue;
+}
+
+.home p {
+  color: aliceblue;
+}
+
 .social-links a {
-  font-size: 25px;
-  color: black;
+  font-size: 35px;
+  color: aquamarine;
 }
 
 .social-links .contate {
@@ -69,7 +82,7 @@
 
 .social-links .gmail:hover {
   font-size: 40px;
-  color: brown;
+  color: cornflowerblue;
 }
 
 .social-links .linkedin:hover {
@@ -83,25 +96,48 @@
 
 /* about */
 
-/* about */
+.about {
+  background-color: black;
+}
+
+.about h2 {
+  color: white;
+}
+
+.about h2:hover {
+  color: aquamarine;
+}
+
+.about h3 {
+  color: dodgerblue;
+}
+
+.about p {
+  color: aliceblue;
+}
 
 .about-text-cv {
-  -webkit-box-shadow: 6px 5px 51px -25px rgba(87, 84, 87, 1);
-  -moz-box-shadow: 6px 5px 51px -25px rgba(87, 84, 87, 1);
-  box-shadow: 6px 5px 51px -25px rgba(87, 84, 87, 1);
+  -webkit-box-shadow: 9px 7px 21px -12px rgba(33, 140, 255, 1);
+  -moz-box-shadow: 9px 7px 21px -12px rgba(33, 140, 255, 1);
+  box-shadow: 9px 7px 21px -12px rgba(33, 140, 255, 1);
+
+  border-radius: 10px;
 }
 
 .about .btn {
   color: aquamarine;
-  background-color: dodgerblue;
+  background-image: linear-gradient(to right, dodgerblue, purple);
   color: white;
 }
 
 .about .btn:hover {
   color: aquamarine;
-  background-color: dodgerblue;
+  background-image: linear-gradient(to right, purple, dodgerblue);
   color: white;
-  font-size: 18px;
+}
+
+.skill-item h3 {
+  color: aliceblue;
 }
 
 /* about */
@@ -109,6 +145,23 @@
 /* ----------------------------------------------------------------------------------- */
 
 /* experience */
+
+.experience {
+  background-color: black;
+}
+
+.experience h2 {
+  color: white;
+}
+
+.experience h2:hover {
+  color: aquamarine;
+}
+
+.about-text-cv {
+  background-color: white;
+}
+
 .experience h3 {
   color: dodgerblue;
   font-size: medium;
