@@ -37,6 +37,12 @@
   background-color: black;
 }
 
+.home-img img {
+  -webkit-box-shadow: 0px 9px 44px 14px rgba(70, 138, 240, 0.34);
+  -moz-box-shadow: 0px 9px 44px 14px rgba(70, 138, 240, 0.34);
+  box-shadow: 0px 9px 44px 14px rgba(70, 138, 240, 0.34);
+}
+
 .img {
   font-size: small;
 }
